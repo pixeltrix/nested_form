@@ -1,0 +1,1 @@
+Member.create(email: "nestedform@example.com")
